@@ -2,5 +2,3 @@ Bài này có 1 xíu lỗi đó là file sau kia tải về sẽ hiện ?. Nhi�
 Tham khảo và dịch ra ta đc:  
 ![image](https://user-images.githubusercontent.com/97203151/223612213-d2de5859-318c-4544-ae13-afc06c707992.png)
 
-
--daskdsa
